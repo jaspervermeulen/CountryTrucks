@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="65px" viewBox="0 0 58 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Documenten</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page-Copy" transform="translate(-931.000000, -2027.000000)">
+            <g id="Documenten" transform="translate(933.000000, 2029.000000)">
+                <g id="Group-10-Copy" transform="translate(8.619932, 6.000000)">
+                    <polygon id="Fill-1" fill="#FFFFFF" points="45 0.0206952802 45 54.3820225 0 54.3820225 0 12.5258183 12.1514053 0 12.6327236 0"></polygon>
+                    <g id="Group-6" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                        <polygon id="Stroke-2" stroke="#000000" points="44.82985 0.0493603582 44.82985 54.3820742 -0.00015 54.3820742 -0.00015 12.5479013 12.10535 0.0286759711 12.58485 0.0286759711"></polygon>
+                        <polygon id="Stroke-4" stroke="#FFFFFF" points="12.5847 0.0286759711 12.5847 12.3048597 0.2352 12.3048597 12.1052 0.0286759711"></polygon>
+                    </g>
+                    <path d="M7.5,19.2063492 L36.25,19.2063492" id="Stroke-7" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7.5,25.6803995 L36.25,25.6803995" id="Stroke-8" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7.5,32.5860531 L15.8333333,32.5860531" id="Stroke-9" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <g id="Group-10" transform="translate(0.619932, 0.000000)">
+                    <polygon id="Fill-1" fill="#FFFFFF" points="45 0.0206952802 45 54.3820225 0 54.3820225 0 12.5258183 12.1514053 0 12.6327236 0"></polygon>
+                    <g id="Group-6" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                        <polygon id="Stroke-2" points="44.82985 0.0493603582 44.82985 54.3820742 -0.00015 54.3820742 -0.00015 12.5479013 12.10535 0.0286759711 12.58485 0.0286759711"></polygon>
+                        <polygon id="Stroke-4" points="12.5847 0.0286759711 12.5847 12.3048597 0.2352 12.3048597 12.1052 0.0286759711"></polygon>
+                    </g>
+                    <path d="M7.5,19.2063492 L36.25,19.2063492" id="Stroke-7" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7.5,25.6803995 L36.25,25.6803995" id="Stroke-8" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M7.5,32.5860531 L36.25,32.5860531" id="Stroke-9" stroke="#000000" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
