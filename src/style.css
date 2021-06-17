@@ -862,7 +862,7 @@ td.price{
 }
 .promo__price{
 	position: absolute;
-	background: url('../assets/img/promo.svg') no-repeat center;
+	background: url('./assets/img/promo.svg') no-repeat center;
 	background-size: 13rem 13rem;
 	align-self: flex-end;
 	padding: 7rem;
