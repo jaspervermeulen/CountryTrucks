@@ -894,4 +894,14 @@ td.price{
   .responsive-error{
     display: inline;
   }
+  .header, .footer, .about, .detail, .home, .practical, .truck, .checkout, .cart{
+    display: none;
+  }
+}
+
+
+@media only screen and (min-width: 1921px) {
+  .responsive-error{
+    display: inline;
+  }
 }
