@@ -885,6 +885,10 @@ td.price{
 	line-height: calc(30/25);
 	margin-bottom: 4rem;
 }
+.responsive-error-text{
+  font-size: 1.8rem;
+  margin-top: 12rem;
+}
 
 .responsive-error{
   display: none;
@@ -892,7 +896,7 @@ td.price{
 
 @media only screen and (max-width: 1919px) {
   .responsive-error{
-    display: inline;
+    display: block;
     width: 10rem;
     margin: 0 auto;
   }
@@ -904,7 +908,9 @@ td.price{
 
 @media only screen and (min-width: 1921px) {
   .responsive-error{
-    display: inline;
+    display: block;
+    width: 10rem;
+    margin: 0 auto;
   }
   .header, .footer, .about, .detail, .home, .practical, .truck, .checkout, .cart, .home__img3{
     display: none;
