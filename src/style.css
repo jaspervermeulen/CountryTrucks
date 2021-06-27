@@ -893,8 +893,10 @@ td.price{
 @media only screen and (max-width: 1919px) {
   .responsive-error{
     display: inline;
+    width: 10rem;
+    margin: 0 auto;
   }
-  .header, .footer, .about, .detail, .home, .practical, .truck, .checkout, .cart{
+  .header, .footer, .about, .detail, .home, .practical, .truck, .checkout, .cart, .home__img3{
     display: none;
   }
 }
@@ -903,5 +905,8 @@ td.price{
 @media only screen and (min-width: 1921px) {
   .responsive-error{
     display: inline;
+  }
+  .header, .footer, .about, .detail, .home, .practical, .truck, .checkout, .cart, .home__img3{
+    display: none;
   }
 }
