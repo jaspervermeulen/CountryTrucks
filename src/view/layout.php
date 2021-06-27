@@ -8,6 +8,10 @@
     <title>Country Trucks - <?php echo $currentPage; ?></title>
 </head>
 <body class="body">
+<div class="responsive-error">
+<p class="responsive-error-text">Website is not responsive.</p>
+</div>
+
     <header class="header">
         <nav class="nav">
             <ul class="nav__list">

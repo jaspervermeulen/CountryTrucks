@@ -885,3 +885,13 @@ td.price{
 	line-height: calc(30/25);
 	margin-bottom: 4rem;
 }
+
+.responsive-error{
+  display: none;
+}
+
+@media only screen and (max-width: 1919px) {
+  .responsive-error{
+    display: inline;
+  }
+}
