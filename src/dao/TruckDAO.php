@@ -1,5 +1,5 @@
 
-<?php 
+<?php
 
 require_once __DIR__ . '/DAO.php';
 
@@ -37,7 +37,7 @@ class TruckDAO extends DAO {
     }
 
     public function selectActivity($id){
-        $sql = "SELECT * FROM `products` WHERE id_destination=:id";
+        $sql = "SELECT * FROM `products_countrytrucks` WHERE id_destination=:id";
         $stmt = $this->pdo->prepare($sql);
         $stmt->bindValue(':id', $id);
         $stmt->execute();
@@ -46,13 +46,13 @@ class TruckDAO extends DAO {
 
     public function insert($data){
         $sql = "INSERT INTO `newsletter` (`email`) VALUES (:email)";
-        $stmt = $this->pdo->prepare($sql);  
+        $stmt = $this->pdo->prepare($sql);
         $stmt->bindValue(':email', $data);
         $stmt->execute();
     }
 
     public function selectProducts($id){
-        $sql = "SELECT * FROM `products` WHERE id=:id";
+        $sql = "SELECT * FROM `products_countrytrucks` WHERE id=:id";
         $stmt = $this->pdo->prepare($sql);
         $stmt->bindValue(':id', $id);
         $stmt->execute();
