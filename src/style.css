@@ -34,7 +34,7 @@ html{
 	align-items: center;
 }
 .nav__list--item--title{
-	padding-right: 45rem;
+	padding-right: 8rem;
 }
 .nav__list--link{
 	font-size: 2.5rem;
@@ -51,7 +51,7 @@ html{
 	text-transform: uppercase;
 }
 .home__intro{
-	margin-left: 15rem;
+	margin-left: 3rem;
 	padding-top: 19.3rem;
 	display: flex;
 	flex-direction: column;
@@ -402,13 +402,13 @@ html{
 	line-height: calc(35/25);
 }
 .map__rightside{
-	
+
 	width: 144rem;
 	height: 64.2rem;
 	border-top: black solid 0.2rem;
 	border-bottom: black solid 0.2rem;
 	border-right: black solid 0.2rem;
-	
+
 
 }
 .rightside__list--img1{
@@ -506,7 +506,7 @@ html{
 }
 .detail__info--item{
     margin-bottom: 1rem;
-} 
+}
 .detail__info--svg{
     position: absolute;
     top: 93.1rem;
@@ -544,7 +544,7 @@ html{
 
 .detail__shop{
 	margin-top: 29rem;
-	
+
 }
 .detail__shop--title{
     margin-bottom: 5rem;
@@ -554,7 +554,7 @@ html{
 }
 .detail__shop--form{
 	margin-top: 5rem;
-	
+
 }
 
 .shop__button{
@@ -627,7 +627,7 @@ p.order-total {
     text-align: right;
     font-size: 2rem;
     margin-bottom: 3rem;
-}  
+}
 .button__cart--update{
    border: 0.2rem black solid;
    padding: 1rem;
@@ -709,7 +709,7 @@ td.price{
 	width: 20rem;
 }
 .checkout__input{
-	
+
 	border: 0.2rem black solid;
 	width: 40rem;
 	height: 4rem;
@@ -738,7 +738,7 @@ td.price{
    margin-top: 2rem;
    outline: none;
    cursor: pointer;
-   margin-top: 13.5rem;	
+   margin-top: 13.5rem;
 }
 .checkout__submit:hover{
 	background-color: black;
