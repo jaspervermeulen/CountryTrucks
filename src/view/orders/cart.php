@@ -21,10 +21,10 @@
             <td class='product-description'>
               <?php echo $item['product']['name'];?>
             </td>
-            <td class='price'><?php echo money_format("%i", $item['product']['price']);?></td>
+            <td class='price'><?php echo $item['product']['price'];?></td>
             <td class='quantity'> <input class="text quantity" type="text" name="quantity[<?php echo $item['product']['id'];?>]" value="<?php echo $item['quantity'];?>" class="replace" /> </td>
             <div class="total__wrapper">
-            <td class='total'><?php echo money_format("%i", $itemTotal);?></td>
+            <td class='total'><?php echo $itemTotal;?></td>
             </div>
           </tr>
           <?php
@@ -33,7 +33,7 @@
         </tbody>
         </table>
         <div class='column two'>
-          <p class='order-total'><span>total:</span> <?php echo money_format("%i", $total);?></p>
+          <p class='order-total'><span>total:</span> <?php echo $total;?></p>
           <div class="cart__buttons-wrapper">
           <p><button type="submit" id="update-cart" class="btn button__cart--update" name="action" value="update">Update Cart</button></p>
           </div>
@@ -42,7 +42,7 @@
     <?php
       if($numItems != '0'){
         echo '<a class="button__cart--link" href="index.php?page=checkout"><p><button class="btn-reversed btn button__cart--checkout" type="submit" id="checkout" name="action" value="checkout">Checkout</button></p></a>';
-      }  
+      }
     ?>
   </div>
 <div class="cart__footer">
